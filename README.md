@@ -1,24 +1,22 @@
 <h2> Welcome 👋</h2>
-My name is Felipe Babel
-
-I am currently working at Philips
-\
-And attending Informatic System at FURB
-\
-You can reach me out on <a href="https://www.linkedin.com/in/felipebabel/"><i>Linkedin</i></a> or by email: babelfelipe@gmail.com
-
-
+<p>My name is <strong>Felipe Babel</strong></p>
+<p>I am currently working at <strong>Philips</strong></p>
+<p>And attending <strong>Informatic System</strong> at <strong>FURB</strong></p>
+<p>You can reach me out on <a href="https://www.linkedin.com/in/felipebabel/"><i>LinkedIn</i></a> or by email: <a href="mailto:babelfelipe@gmail.com">babelfelipe@gmail.com</a></p>
 
 [![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,docker,py,redis)](https://skillicons.dev)
 
-Here, you'll will find some projects focused on backend, using the following technologies:
-<p>-Java</p> 
-<p>-Spring Boot</p>
-<p>-Microsservicos</p>
-<p>-Banco de dados (PL SQL)</p>
-<p>-Redis</p>
-<p>-Docker</p>
-<p>-Kafka</p>
+<p>Here, you will find some projects focused on backend, using the following technologies:</p>
+<ul>
+  <li>Java</li>
+  <li>Spring Boot</li>
+  <li>Microsservicos</li>
+  <li>Banco de dados (PL SQL)</li>
+  <li>Redis</li>
+  <li>Docker</li>
+  <li>Kafka</li>
+</ul>
 
 <hr>
+
 
