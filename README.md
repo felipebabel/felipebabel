@@ -1,10 +1,17 @@
-<h2> Ola a todos, meu nome é <a href="https://www.linkedin.com/in/felipebabel/"><i>Felipe Babel!</i></a></h2>
+<h2> Welcome 👋</h2>
+My name is Felipe Babel
 
-Foco atual: Estudando
+I am currently working at Philips
+\
+And attending Informatic System at FURB
+\
+You can reach me out on <a href="https://www.linkedin.com/in/felipebabel/"><i>Linkedin</i></a> or by email: babelfelipe@gmail.com
+
+
 
 [![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,docker,py,redis)](https://skillicons.dev)
 
-Por aqui, você encontrará alguns projetos focados no backend, usando as seguintes tecnologias:
+Here, you'll will find some projects focused on backend, using the following technologies:
 <p>-Java</p> 
 <p>-Spring Boot</p>
 <p>-Microsservicos</p>
@@ -15,4 +22,3 @@ Por aqui, você encontrará alguns projetos focados no backend, usando as seguin
 
 <hr>
 
-Chega mais e da uma olhadinha nos meus códigos. Talvez eles te ajudem de alguma forma :)
