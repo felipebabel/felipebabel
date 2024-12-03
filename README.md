@@ -10,8 +10,8 @@
 <ul>
   <li>Java</li>
   <li>Spring Boot</li>
-  <li>Microsservicos</li>
-  <li>Banco de dados (PL SQL)</li>
+  <li>Microservice</li>
+  <li>Database (PL SQL)</li>
   <li>Redis</li>
   <li>Docker</li>
   <li>Kafka</li>
